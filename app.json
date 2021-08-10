@@ -1,6 +1,6 @@
 {
-  "name": "2PG - Simple, powerful Discord Bot",
-  "description": "Host a bot without code, with one simple step.",
+  "name": "rokebot - Simple, powerful Discord Bot",
+  "description": "",
   "keywords": [
     "bot",
     "discord bot",
@@ -9,7 +9,7 @@
     "ai discord bot",
     "2pg"
   ],
-  "repository": "https://github.com/theADAMJR/6PG",
+  "repository": "",
   "env": {
     "API_URL": {
       "description": "The API URL [https://<heroku_app_name>.herokuapp.com/api]",    
